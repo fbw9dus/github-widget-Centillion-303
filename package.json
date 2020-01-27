@@ -1,0 +1,22 @@
+{
+  "name": "github-widget-centillion-303",
+  "version": "1.0.0",
+  "description": "Mach eine Seite die die Repositories eins Nutzers anzeigt. Wenn man einen GitHub-Benutzernamen ins Suchfeld eingibt, wird die [Github-API](https://developer.github.com/v3/) abgefragt und unten eine Liste der Projekte dieses Nutzers angezeigt.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw9dus/github-widget-Centillion-303.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbw9dus/github-widget-Centillion-303/issues"
+  },
+  "homepage": "https://github.com/fbw9dus/github-widget-Centillion-303#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
